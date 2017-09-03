@@ -24,13 +24,13 @@
 
 /* Posititoning Classes */
 #wrap{
-  
+
 }
 
 #featured{
 	width: 64%;
 	float: left;
-  max-height: 100px;
+  max-height: auto;
 }
 #archive{
 	width: 32%;
