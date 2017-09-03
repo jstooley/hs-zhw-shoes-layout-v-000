@@ -47,13 +47,13 @@
 
  #skaters{
  	width: 32%;
-	float: right;
+	float: left;
 	margin: 15px 10px 0px 10px;
  }
 
  #heels{
 	 width: 32%;
-	 float: right;
+	 float: left;
 	 margin: 15px 0px 0px 0px;
  }
 
