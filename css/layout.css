@@ -56,6 +56,10 @@
 	 margin: 15px 0px 0px 0px;
  }
 
+ #details{
+   max-height: 33.33%;
+ }
+
  #contact-info{
    width: 32%;
 	 float: left;
