@@ -36,8 +36,10 @@
 	width: 32%;
 	float: left;
 	margin: 0px 0px 0px 10px;
-  max-height: 500px;
-
+  height: auto;
+}
+#arcgive li{
+  font-size: 1rem;
 }
  #lady-bug{
 	 width: 32%;
