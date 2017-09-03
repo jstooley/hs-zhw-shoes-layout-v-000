@@ -24,19 +24,19 @@
 
 /* Posititoning Classes */
 #wrap{
-  height: 12%;
+  
 }
 
 #featured{
 	width: 64%;
 	float: left;
-  height:auto;
+  max-height:auto;
 }
 #archive{
 	width: 32%;
 	float: left;
 	margin: 0px 0px 0px 10px;
-  height: auto;
+  max-height: 80%;
 
 }
  #lady-bug{
