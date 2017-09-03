@@ -34,12 +34,10 @@
 }
 #archive{
 	width: 32%;
-	float: left;
+	float: right;
 	margin: 0px 0px 0px 10px;
   height: auto;
 }
-#arcgive ul li{
-  font-size: 25%;
 }
  #lady-bug{
 	 width: 32%;
