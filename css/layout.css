@@ -30,7 +30,7 @@
 #featured{
 	width: 64%;
 	float: left;
-  max-height:auto;
+  max-height: 100px;
 }
 #archive{
 	width: 32%;
