@@ -30,12 +30,11 @@
 #featured{
 	width: 64%;
 	float: left;
-  max-height: auto;
 }
 #archive{
 	width: 32%;
 	float: right;
-	margin: 0px 0px 0px 10px;
+	margin: 0px 0px 0px 0px;
   height: auto;
 }
 }
@@ -43,7 +42,6 @@
 	 width: 32%;
 	 float: right;
 	 margin: 15px 0px 0px 0px;
-   clear: both;
  }
 
  #skaters{
