@@ -23,5 +23,56 @@
 }
 
 /* Posititoning Classes */
+#wrap{
+  height: 66.66%;
+}
 
+#featured{
+	width: 64%;
+	float: left;
+  height:auto;
+}
+#archive{
+	width: 32%;
+	float: left;
+	margin: 0px 0px 0px 10px;
+  height: auto;
 
+}
+ #lady-bug{
+	 width: 32%;
+	 float: left;
+	 margin: 15px 0px 0px 0px;
+ }
+
+ #skaters{
+ 	width: 32%;
+	float: left;
+	margin: 15px 10px 0px 10px;
+ }
+
+ #heels{
+	 width: 32%;
+	 float: left;
+	 margin: 15px 0px 0px 0px;
+ }
+
+ #contact-info{
+   width: 32%;
+	 float: left;
+	 margin: 15px 0px 0px 0px;
+ }
+
+ #links{
+   width: 32%;
+ 	float: left;
+ 	margin: 15px 10px 0px 10px;
+
+ }
+
+ #follow{
+   width: 32%;
+	 float: left;
+	 margin: 15px 0px 0px 0px;
+
+ }
